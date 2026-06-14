@@ -5,3 +5,4 @@ numpy
 openpyxl
 Pillow
 kaleido==0.2.1
+statsmodels
